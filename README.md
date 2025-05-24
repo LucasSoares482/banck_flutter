@@ -1,21 +1,4 @@
 <<<<<<< HEAD
-# bank_novo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 🏦 BankFlutter
 
 <div align="center">
@@ -246,16 +229,6 @@ flutter test
 
 ---
 
-## 🤝 Contribuindo
-
-Contribuições são sempre bem-vindas! Para contribuir:
-
-1. **Fork** o projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um **Pull Request**
-
 ### 📝 Padrões de Código
 
 - Use **dart format** para formatação
@@ -322,7 +295,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <div align="center">
   <h3>⭐ Se este projeto te ajudou, não esqueça de dar uma estrela!</h3>
-  
-  **Feito com ❤️ e Flutter**
+   
 </div>
 >>>>>>> b52bcb4249ac39f62dc509294f58f5711268dd55
