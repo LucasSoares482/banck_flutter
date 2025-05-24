@@ -297,10 +297,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Seu Nome**
 
-- 🌐 Website: [seusite.com](https://seusite.com)
-- 📧 Email: seu.email@example.com
-- 🐙 GitHub: [@seuusuario](https://github.com/seuusuario)
-- 💼 LinkedIn: [Seu Nome](https://linkedin.com/in/seuusuario)
+- 🌐 Website: [Em breve!](https://seusite.com)
+- 📧 Email: dev.lucassoares482@gmail.com
+- 🐙 GitHub: [@LucasSoares482](https://github.com/LucasSoares482)
+- 💼 LinkedIn: [Lucas (Santos) Soares ]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/lucas-soares-354738247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BP9IFCNACS%2BizGOVxIm%2FcIA%3D%3D))
 
 ---
 
