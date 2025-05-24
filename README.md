@@ -295,12 +295,19 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Lucas Soares dos Santos**
 
 - 🌐 Website: [Em breve!](https://seusite.com)
 - 📧 Email: dev.lucassoares482@gmail.com
 - 🐙 GitHub: [@LucasSoares482](https://github.com/LucasSoares482)
-- 💼 LinkedIn: [Lucas (Santos) Soares ](https://www.linkedin.com/in/lucas-soares-354738247/)
+- 💼 LinkedIn: [Lucas (Santos) Soares](https://www.linkedin.com/in/lucas-soares-354738247/)
+
+**Caique Rabelo Neves**
+
+- 🌐 Website: [Em breve!](https://seusite.com)
+- 📧 Email: caiquerabelo2015@hotmail.com
+- 🐙 GitHub: [@CaiqueRNeves](https://github.com/CaiqueRNeves)
+- 💼 LinkedIn: [Caique Rabelo](https://www.linkedin.com/in/caique-rabelo-374959305/)
 
 ---
 
